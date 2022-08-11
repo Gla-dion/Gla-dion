@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gla-dion
 - 👀 I’m interested in product design
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on a software design project 
+- 💞️ I’m looking to collaborate on a software design and product design project 
 - 📫 How to reach gladysodiong@gmail.com
 
 <!---
